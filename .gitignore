@@ -1,1 +1,15 @@
+# Environment variable files
 .env
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# Dependency directories
+node_modules
+.npm
+
+# Logs
+logs
+*.log
