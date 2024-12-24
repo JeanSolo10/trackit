@@ -2,9 +2,9 @@
 .env
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+dist
+tmp
+
 
 # Dependency directories
 node_modules
