@@ -1,0 +1,15 @@
+# Environment variable files
+.env
+
+# compiled output
+dist
+tmp
+
+
+# Dependency directories
+node_modules
+.npm
+
+# Logs
+logs
+*.log
