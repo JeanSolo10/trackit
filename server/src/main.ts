@@ -5,7 +5,7 @@ import cors from 'cors';
 const app = express();
 const PORT = process.env.SERVER_PORT || 3000;
 
-const bootstrapServer = async () => {
+const bootstrapServer = () => {
   app.use(cors());
   app.use(express.json());
   app.use(express.urlencoded({extended: true}));
